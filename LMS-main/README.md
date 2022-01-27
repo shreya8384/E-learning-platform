@@ -19,4 +19,4 @@ There are Three types of user roles in this application:
 ● Teachers
 ● Admin
 ● Students
-![image](https://user-images.githubusercontent.com/57412566/151336276-a265f30e-02e4-4898-b141-99248a362eea.png)
+
