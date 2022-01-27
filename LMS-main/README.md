@@ -26,3 +26,14 @@ Username:- admin
 Password:- admin
 
 ![image](https://user-images.githubusercontent.com/57412566/151336732-2163baa2-bf4b-4dab-a4c5-c45ae3dfcc2b.png)
+
+After Login we move to the Admin Dashboard 
+![image](https://user-images.githubusercontent.com/57412566/151337219-e73325c5-9f41-491d-bd49-c795d13831e0.png)
+
+Here We can add, remove and delete:-
+1.new Courses
+2.faculty members 
+3.finance details
+and we can view user and record details and can change password also
+To get out of portal we can sign out by going in the bottom left corner on admin and click sign out option there
+![image](https://user-images.githubusercontent.com/57412566/151337838-928c1c69-140f-4ea7-92fb-6b6876f6198a.png)
