@@ -12,6 +12,8 @@ To Login as user credentials that can be use as dummy text -
 SapId:- 8649
 Password:-12345
 
+Youtube Video for demo purpose - https://www.youtube.com/watch?v=bSO2REuW0lU
+
 or we can also create a new user by sign up by new credentials and after that login by that credentials 
 
 Adaptive learning platform,
