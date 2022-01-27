@@ -56,3 +56,17 @@ After Login we move to the Faculty Dashboard
 For the added courses we can assign new quiz and assignmets and add its result 
 ![image](https://user-images.githubusercontent.com/57412566/151339843-78f02a96-3cb3-43d8-ac92-d88e817080a4.png)
 
+USER PORTAL-
+To Login as user credentials that can be use as dummy text -
+SapId:- 8649
+Password:-12345
+
+![image](https://user-images.githubusercontent.com/57412566/151340411-88f3f373-f5cd-41bf-b800-4605bc909751.png)
+
+users Dashboard
+here we can enroll in different courses select our check our quiz result update our profile 
+![image](https://user-images.githubusercontent.com/57412566/151340703-07cd685f-3b8f-400c-8810-9649a3070c7d.png)
+
+check our marks 
+![image](https://user-images.githubusercontent.com/57412566/151341283-98eb4e25-97a4-4345-84c8-5878ab9852d2.png)
+
