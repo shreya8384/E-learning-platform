@@ -188,7 +188,7 @@ function sum() {
             </main>
             <footer class="row bg-light py-2 mt-auto">
                 <div class="copyright text-center my-auto">
-                  <span>Copyright © 2021</span>
+                  <span>Copyright © 2022 Shreya Verma</span>
                 </div>
             </footer>
         </div>
