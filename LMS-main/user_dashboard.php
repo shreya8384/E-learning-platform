@@ -141,7 +141,7 @@ header("Location:http:user_dashboard.php");
             </main>
             <footer class="row bg-light py-2 mt-auto">
                 <div class="copyright text-center my-auto">
-                  <span>Copyright © 2021</span>
+                  <span>Copyright © 2022 Shreya_Verma</span>
                 </div>
             </footer>
         </div>
