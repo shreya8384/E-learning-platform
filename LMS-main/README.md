@@ -20,3 +20,9 @@ There are Three types of user roles in this application:
 ● Admin
 ● Students
 
+ADMIN PORTAL- 
+Login here by using the credentials 
+Username:- admin
+Password:- admin
+
+![image](https://user-images.githubusercontent.com/57412566/151336732-2163baa2-bf4b-4dab-a4c5-c45ae3dfcc2b.png)
