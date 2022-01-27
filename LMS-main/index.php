@@ -6,11 +6,11 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>| E-learning platform |</title>
         <link rel="stylesheet" type="text/css" href="index.css" />
-        <link rel="shortcut icon" type="image/png" href="image/logo.png" />
+        <link rel="shortcut icon" type="jpeg" href="game1.jpeg" />
         <style type="text/css">
             body {
                 width: 100%;
-                background: url(image/book.png) ;
+                background: url(game2.jpg) ;
                 background-position: center center;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
