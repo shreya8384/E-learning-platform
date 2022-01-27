@@ -46,14 +46,17 @@ Faculty ID:- 8602
 Password:- 7890
 
 ![image](https://user-images.githubusercontent.com/57412566/151338622-29df977d-0299-440b-9fc0-cd25964cc8e2.png)
+
 After Login we move to the Faculty Dashboard 
 
 ![image](https://user-images.githubusercontent.com/57412566/151339400-9927bd0f-28c9-4b80-9c46-01f7b539caf4.png)
+
 -Here we can add and remove courses 
 
 ![image](https://user-images.githubusercontent.com/57412566/151339632-157d45c0-3d20-4f66-a701-8352e358e9ea.png)
 
 For the added courses we can assign new quiz and assignmets and add its result 
+
 ![image](https://user-images.githubusercontent.com/57412566/151339843-78f02a96-3cb3-43d8-ac92-d88e817080a4.png)
 
 USER PORTAL-
