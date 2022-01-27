@@ -38,6 +38,12 @@ and we can view user and record details and can change password also
 To get out of portal we can sign out by going in the bottom left corner on admin and click sign out option there
 ![image](https://user-images.githubusercontent.com/57412566/151337838-928c1c69-140f-4ea7-92fb-6b6876f6198a.png)
 
+we can add quiz and assignment
+
+![image](https://user-images.githubusercontent.com/57412566/151342311-aebe6d77-ca8f-4de8-809e-eb9a5c4b3118.png)
+
+![image](https://user-images.githubusercontent.com/57412566/151342372-2e5cfb28-68c9-48cc-babe-3697b8a85ed9.png)
+
 
 FACULTY PORTAL-
 
