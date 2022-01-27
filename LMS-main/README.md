@@ -73,3 +73,6 @@ here we can enroll in different courses select our check our quiz result update 
 check our marks 
 ![image](https://user-images.githubusercontent.com/57412566/151341283-98eb4e25-97a4-4345-84c8-5878ab9852d2.png)
 
+User can check their Financial Status which is updated by Admin
+
+![image](https://user-images.githubusercontent.com/57412566/151341660-b41a0320-e156-40ff-bfe1-b93066f7aa79.png)
